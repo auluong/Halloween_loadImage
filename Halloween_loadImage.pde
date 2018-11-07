@@ -10,7 +10,7 @@ void setup(){
 
 void draw()
 {
-  save("AUSTIN.Halloween.jpg");
+
 }
 
 void mouseDragged()
