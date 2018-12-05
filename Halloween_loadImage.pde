@@ -12,7 +12,7 @@ void setup(){
 void draw()
 {
  
-}
+
 
 void mouseDragged()
 {
@@ -21,5 +21,6 @@ int c = blendColor(get(mouseX,mouseY),color(255, 200, 25),OVERLAY);
 fill(c);
 fill(255, 200, 15);
  rect(mouseX,mouseY,10,10);
+}
 }
  
