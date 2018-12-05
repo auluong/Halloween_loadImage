@@ -10,7 +10,7 @@ void setup(){
 void draw()
 {
  
-
+}
 
 void mouseDragged()
 {
@@ -20,5 +20,3 @@ fill(c);
 fill(255, 200, 15);
  rect(mouseX,mouseY,10,10);
 }
-}
- 
