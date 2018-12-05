@@ -6,11 +6,12 @@ void setup(){
   background(0,0,0);
   img=loadImage("pumpkins.jpg");
   image(img,0,0);
+   image(img,0,0);
 }
 
 void draw()
 {
-  image(img,0,0);
+ 
 }
 
 void mouseDragged()
