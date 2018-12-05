@@ -3,10 +3,8 @@ PImage img;
 
 void setup(){
   size(700,460);
-  background(0,0,0);
   img=loadImage("pumpkins.jpg");
   image(img,0,0);
-   image(img,0,0);
 }
 
 void draw()
