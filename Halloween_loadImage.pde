@@ -17,6 +17,6 @@ void mouseDragged()
  noStroke();
 int c = blendColor(get(mouseX,mouseY),color(255, 200, 25),OVERLAY);
 fill(c);
-fill(255, 200, 15);
+//fill(255, 200, 15);
  rect(mouseX,mouseY,10,10);
 }
