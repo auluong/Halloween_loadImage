@@ -5,7 +5,7 @@ void setup(){
   size(700,460);
   background(0);
   img=loadImage("pumpkins.jpg");
-  preload="pumpkins.jpg"
+  /* @pjs preload="pumpkins.jpg"; */
       image(img,0,0);
 }
 
